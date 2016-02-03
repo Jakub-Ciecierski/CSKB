@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.2.1)  3 FEB 2016 18:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.2.1)  3 FEB 2016 22:16
 entering extended mode
  %&-line parsing enabled.
 **thesis.tex
@@ -1296,7 +1296,7 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \flrow@LT@prelastfoot=\box61
 \c@FBLTpage=\count183
 )
-<graphics/pw.pdf, id=46, 80.3pt x 80.3pt>
+<graphics/pw.pdf, id=118, 80.3pt x 80.3pt>
 File: graphics/pw.pdf Graphic file (type pdf)
  <use graphics/pw.pdf>
 LaTeX Font Info:    Try loading font information for U+msa on input line 62.
@@ -1309,7 +1309,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 62.
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-<graphics/mini.pdf, id=48, 80.3pt x 80.3pt>
+<graphics/mini.pdf, id=120, 80.3pt x 80.3pt>
 File: graphics/mini.pdf Graphic file (type pdf)
  <use graphics/mini.pdf>
 Overfull \hbox (32.43332pt too wide) in paragraph at lines 62--62
@@ -1351,34 +1351,147 @@ Chapter 5.
 
 ]
 Chapter 6.
-[15] [16
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 98.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
 
-]
+<./images/phong.jpg, id=216, 513.92pt x 406.51875pt>
+File: ./images/phong.jpg Graphic file (type jpg)
+ <use ./images/phong.jpg>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+<./images/ambient_light.jpg, id=225, 376.40625pt x 100.12407pt>
+File: ./images/ambient_light.jpg Graphic file (type jpg)
+
+<use ./images/ambient_light.jpg>
+Underfull \vbox (badness 1436) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16 <./images/phong.jpg>]
+<./images/diffuse_magnified.jpg, id=235, 150.5625pt x 106.14656pt>
+File: ./images/diffuse_magnified.jpg Graphic file (type jpg)
+
+<use ./images/diffuse_magnified.jpg>
+<./images/diffuse.jpg, id=236, 376.40625pt x 105.39375pt>
+File: ./images/diffuse.jpg Graphic file (type jpg)
+
+<use ./images/diffuse.jpg>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17 <./images/ambient_light.jpg> <./images/diffuse_magnified.jpg>]
+Overfull \hbox (0.58379pt too wide) in paragraph at lines 200--201
+\OT4/cmr/bx/n/10.95 The spec-u-lar term rep-res-ents light scattered from a sur
+-face pre-dom-in-antly around
+ []
+
+<./images/specular.jpg, id=243, 376.40625pt x 106.89937pt>
+File: ./images/specular.jpg Graphic file (type jpg)
+
+<use ./images/specular.jpg>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18 <./images/diffuse.jpg> <./images/specular.jpg>]
+<./images/phong_components.jpg, id=250, 390.45876pt x 129.48375pt>
+File: ./images/phong_components.jpg Graphic file (type jpg)
+
+<use ./images/phong_components.jpg>
+<./images/flat_shade.jpg, id=251, 380.42125pt x 248.93pt>
+File: ./images/flat_shade.jpg Graphic file (type jpg)
+
+<use ./images/flat_shade.jpg>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19 <./images/phong_components.jpg>]
+<./images/goraud_shade.jpg, id=258, 380.42125pt x 248.93pt>
+File: ./images/goraud_shade.jpg Graphic file (type jpg)
+
+<use ./images/goraud_shade.jpg>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20 <./images/flat_shade.jpg> <./images/goraud_shade.jpg>]
+Overfull \hbox (5.50854pt too wide) in paragraph at lines 305--306
+\OT4/cmr/m/n/10.95 Naive line draw-ing uses float-ing point op-er-a-tions which
+ is slow-ing down the com-pu-ta-tions 
+ []
+
+<./images/bresenham.png, id=265, 301.125pt x 162.6075pt>
+File: ./images/bresenham.png Graphic file (type png)
+
+<use ./images/bresenham.png>
+<./images/aliasing.png, id=267, 476.78125pt x 357.335pt>
+File: ./images/aliasing.png Graphic file (type png)
+
+<use ./images/aliasing.png>
+Underfull \vbox (badness 2088) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21 <./images/bresenham.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22 <./images/aliasing.png (PNG copy)>]
 Chapter 7.
-[17] [18
+[23
 
-]
+] [24
 
-LaTeX Warning: Empty `thebibliography' environment on input line 128.
-
-[19] (./thesis.aux) ) 
+] [25] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 28446 strings out of 493848
- 584111 string characters out of 1152824
- 753966 words of memory out of 3000000
- 31099 multiletter control sequences out of 15000+50000
- 14821 words of font info for 45 fonts, out of 3000000 for 9000
+ 28584 strings out of 493848
+ 586712 string characters out of 1152824
+ 759966 words of memory out of 3000000
+ 31193 multiletter control sequences out of 15000+50000
+ 15370 words of font info for 46 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 56i,7n,92p,811b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/pl/plrm.enc}{/us
-r/share/texmf-texlive/fonts/enc/dvips/pl/plsc.enc}</usr/share/texmf-texlive/fon
-ts/type1/public/pl/plbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/pl/p
-lbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/pl/plcsc10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/pl/plr10.pfb></usr/share/texmf-texlive/font
-s/type1/public/pl/plr12.pfb>
-Output written on thesis.pdf (19 pages, 211826 bytes).
+ 56i,11n,92p,811b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/pl/plrm.enc}{/
+usr/share/texmf-texlive/fonts/enc/dvips/pl/plsc.enc}</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texmf-texlive/fonts/type1/public/pl/plbx10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/pl/plbx12.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/pl/plcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/pl/plr10
+.pfb></usr/share/texmf-texlive/fonts/type1/public/pl/plr12.pfb></usr/share/texm
+f-texlive/fonts/type1/public/pl/plsl10.pfb>
+Output written on thesis.pdf (25 pages, 552471 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 344 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 

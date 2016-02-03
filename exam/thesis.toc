@@ -7,12 +7,22 @@
 \contentsline {chapter}{\numberline {6}Computer Graphics}{15}{chapter.6}
 \contentsline {section}{\numberline {6.1}Color Models}{15}{section.6.1}
 \contentsline {section}{\numberline {6.2}Illumination Models}{15}{section.6.2}
-\contentsline {section}{\numberline {6.3}Raster Algorithms}{15}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Line Drawing}{15}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Aliasing and Anti-Aliasing}{15}{subsection.6.3.2}
-\contentsline {section}{\numberline {6.4}Spline Functions}{15}{section.6.4}
-\contentsline {section}{\numberline {6.5}Filling the Area}{15}{section.6.5}
-\contentsline {section}{\numberline {6.6}Visible Surface Determination}{15}{section.6.6}
-\contentsline {section}{\numberline {6.7}Image Filtering}{15}{section.6.7}
-\contentsline {chapter}{\numberline {7}Software Engineering}{17}{chapter.7}
-\contentsline {chapter}{Bibliography}{19}{section*.1}
+\contentsline {subsection}{\numberline {6.2.1}Phong Illumination}{16}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Ambient Light}{16}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Diffuse Light}{17}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Specular Light}{18}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Summary}{19}{subsection.6.2.5}
+\contentsline {section}{\numberline {6.3}Shading}{19}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Flat Shading}{19}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Goraud Shading}{20}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Phong Shading}{20}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Raster Algorithms}{21}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Line Drawing}{21}{subsection.6.4.1}
+\contentsline {subsubsection}{Bresenham}{21}{section*.9}
+\contentsline {subsection}{\numberline {6.4.2}Aliasing and Anti-Aliasing}{21}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}Spline Functions}{22}{section.6.5}
+\contentsline {section}{\numberline {6.6}Filling the Area}{22}{section.6.6}
+\contentsline {section}{\numberline {6.7}Visible Surface Determination}{22}{section.6.7}
+\contentsline {section}{\numberline {6.8}Image Filtering}{22}{section.6.8}
+\contentsline {chapter}{\numberline {7}Software Engineering}{23}{chapter.7}
+\contentsline {chapter}{Bibliography}{25}{section*.12}
